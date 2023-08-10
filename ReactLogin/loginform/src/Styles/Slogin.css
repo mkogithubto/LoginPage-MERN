@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+}
+
+.Logincontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin : 50px 700px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px;
+    height: 600px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: lavender;
+    
+}
+
+.Logincontainer form{
+    margin: 50px;
+}
+
+
+
+h4{
+    margin-bottom: 100px;
+    font-size: 30px;
+}
+
+form{
+    margin: 130px
+    
+    
+}
+
+input{
+    margin: 40px 100px;
+    padding: 0px 70px;
+    margin: 20px;
+    height: 30px;
+    border-radius: 8px;
+    
+}
+
+.btn button{
+    padding: 5px 5px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: lightsteelblue;
+    cursor: pointer;
+
+}
+
+.reg{
+    margin-bottom: 20px;
+    
+}
+
+.reg button{
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    font-style: italic;
+}
+
+body{
+    background-color: lightblue;
+    background-size: 100vh;
+}
+
+.RegisterContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin : 50px 700px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px;
+    height: 600px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: lavender;
+}
+
+.log{
+    margin-bottom: 150px;
+}
+
+.log button{
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    font-style: italic;
+}
+
+.btn2 button{
+    padding: 5px 5px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: lightsteelblue;
+
+}
+
+.RegisterContainer h4{
+    margin-bottom: 5px;
+}
+
+.RegisterContainer form{
+    margin-bottom: 50px;
+}
